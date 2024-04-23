@@ -415,6 +415,9 @@ nav .fa-solid{
         left: 25px;
         cursor: pointer;
     }
+    /* .hero-section{
+        flex-basis: 100%;
+    } */
     .sub-title{
         font-size: 40px;
     }
